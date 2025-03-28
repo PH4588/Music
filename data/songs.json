@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "cover_url": "blinding_lights.png",
+        "song_file": "001_-the-weeknd-blinding-lights.mp3"
+    },
+    {
+        "id": 2,
+        "title": "Believer",
+        "artist": "Imagine Dragons",
+        "cover_url": "Imagine-Dragons-Believer-art.png",
+        "song_file": "Imagine Dragons - Believer.mp3"
+    },
+    {
+        "id": 3,
+        "title": "Heat Waves",
+        "artist": "Glass Animals & iann dior",
+        "cover_url": "Glass_Animals_-_Heat_Waves.png",
+        "song_file": "Glass Animals & iann dior - Heat Waves.mp3"
+    },
+    {
+        "id": 4,
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "cover_url": "Shape_Of_You_28Official_Single_Cover29_by_Ed_Sheeran.png",
+        "song_file": "Wale - Shape of You (Ed Sheeran Remix).mp3"
+    },
+    {
+        "id": 5,
+        "title": "Starboy",
+        "artist": "The Weeknd feat. Daft Punk",
+        "cover_url": "starboy.png",
+        "song_file": "The Weeknd feat. Daft Punk - Starboy (1).mp3"
+    },
+    {
+        "id": 6,
+        "title": "Someone You Loved",
+        "artist": "Lewis Capaldi",
+        "cover_url": "artworks-000650538172-8qxj2d-t500x500.png",
+        "song_file": "Lewis Capaldi - Someone You Loved.mp3"
+    },
+    {
+        "id": 7,
+        "title": "Something Just Like This",
+        "artist": "The Chainsmokers & Coldplay",
+        "cover_url": "Something_Just_Like_This.png",
+        "song_file": "The Chainsmokers & Coldplay - Something Just Like This.mp3"
+    },
+    {
+        "id": 8,
+        "title": "Stay",
+        "artist": "he Kid Laroi feat. Justin Bieber",
+        "cover_url": "The_Kid_Laroi_and_Justin_Bieber_-_Stay.png",
+        "song_file": "The Kid Laroi feat. Justin Bieber - Stay.mp3"
+    },
+    {
+        "id": 9,
+        "title": "Sweater Weather",
+        "artist": "The Neighbourhood",
+        "cover_url": "ab67616d0000b2738265a736a1eb838ad5a0b921.png",
+        "song_file": "The Neighbourhood - Sweater Weather.mp3"
+    },
+    {
+        "id": 10,
+        "title": "Dance Monkey",
+        "artist": "Tones And I",
+        "cover_url": "dance_monkey.png",
+        "song_file": "Tones And I - Dance Monkey.mp3"
+    }
+]

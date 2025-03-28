@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Techno vibe",
+        "spotify_url": "https://open.spotify.com/playlist/3TOqIzUuR45clFNbvDYnkl?si=775297bfb7af4135&nd=1&dlsi=e22ac430de8f4204",
+        "cover_url": "https://mosaic.scdn.co/300/ab67616d00001e025094c7ddde5b276cf014875dab67616d00001e029eb3c3b18536522601ca8731ab67616d00001e02aabcee4258d0ad8cf91950a8ab67616d00001e02bf8a382030276cd20fa2e87d"
+    },
+    {
+        "id": 2,
+        "title": "Phonk-drift",
+        "spotify_url": "https://open.spotify.com/playlist/0aoh2uJT2awTHzNUZxiyBz?si=dc310bbb8abd41fb",
+        "cover_url": "https://mosaic.scdn.co/300/ab67616d00001e0216f55aaa6d2d202135336bf4ab67616d00001e0236c1b997bc5dc080d6090f0fab67616d00001e02580221453aa37b71abed33e1ab67616d00001e02825c5116f56c1b2f8611126b"
+    },
+    {
+        "id": 3,
+        "title": "Chill music",
+        "spotify_url": "https://open.spotify.com/playlist/78NeB4znI0vIDfoXWU8BNu?si=3e70f4e4e98b45cf",
+        "cover_url": "https://mosaic.scdn.co/300/ab67616d00001e022e3d13b7c94ffbe742c11112ab67616d00001e0257e4019fb9dc0ac965e3dd72ab67616d00001e02cf296a0d39e679f43bcceb79ab67616d00001e02d38880429217973f5e060735"
+    }
+]
