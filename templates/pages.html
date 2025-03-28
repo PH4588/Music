@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="pages">
+    <h1>Mūsu playlisti</h1>
+    <hr>
+    <div class="features">
+        {%for playlist in playlists%}
+        <div class="feature-card">
+            <h2>{{playlist.title}}</h2>
+            <img src="{{playlist.cover_url}}">
+            <a href="{{playlist.spotify_url}}" class="btn">Klausīties</a>
+        </div>
+        {%endfor%}
+    </div>
+</section>
+{% endblock %}

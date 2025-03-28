@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+  <h1>Šī sezona hiti!</h1>
+  <p>Mūzika popularitātes virsotnē<br>Labākas dziesmas!</p>
+  
+  <div class="action-buttons">
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" class="btn btn-primary" target="_blank">
+      <i class="fas fa-play"></i> Klausīties
+    </a>
+    <a href="/top10" class="btn btn-secondary">
+      <i class="fas fa-chart-line"></i> Top-10
+    </a>
+  </div>
+  
+  <p>Tikai labākās dziesmas jums!</p>
+</section>
+
+<section class="features">
+  <div class="feature-card">
+    <h2><i class="fas fa-fire"></i> Kāpēc izvēlēties mūs</h2>
+    <p>Mēs esam apkopojuši labākās dziesmas, kuras ir uzvarējušas topos un sirdus visā pasaulē.</p>
+  </div>
+  
+  <div class="feature-card">
+    <h2><i class="fas fa-sync-alt"></i> Vienmēr aktuāli</h2>
+    <p>Katru dienu atjauninām playlistus, lai jūs būtu muzikālās modes ritmā.</p>
+  </div>
+  
+  <div class="feature-card">
+    <h2><i class="fas fa-globe"></i> Pieejams visur</h2>
+    <p>Klausieties mīļāko mūziku jebkurā vietā un jebkurā laikā visās ierīcēs.</p>
+  </div>
+</section>
+
+<section class="top10-section">
+  <h2>Nepalaidiet garām iespēju noklausīties šos hitus!</h2>
+  <p>Mūsu playlisti ir veidoti ar mīlestību pret mūziku un uzmanību detaļām. Mēs zinām ko jums patiks!</p>
+  
+  <div class="divider"></div>
+  
+  <div class="action-buttons">
+    <a href="/top10" class="btn btn-primary">
+      <i class="fas fa-music"></i> Skatīt Top-10
+    </a>
+  </div>
+</section>
+{% endblock %}

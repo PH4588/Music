@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="top10">
+    <h1>Top - 10</h1>
+    <hr>
+    
+    <div class="features">
+        {%for song in songs%}
+        <div class="feature-card">
+            <h2>{{song.title}}</h2>
+            <img src="../static/cover/{{song.cover_url}}">
+            <p>Autors: {{song.artist}}</p>
+            <a href="..\static\songs\{{song.song_file}}" class="btn">Klausīties</a>
+        </div>
+        {%endfor%}
+    </div>
+    
+        
+    </div>
+    
+</section>
+{% endblock %}
